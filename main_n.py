@@ -11,7 +11,5 @@ Fetch_and_Save_Top_Stories(topstories_url)
 # Fetch and save comments for top stories
 Fetch_Comments_for_Top_Stories()
 
-
-
 # Analyze and save data and plot the result
 analys_data()
